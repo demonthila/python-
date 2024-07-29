@@ -1,5 +1,6 @@
-birthyear = input("what is your birth year? ")
+no1 = input("Enter a number ")
+no2 = input("Enter a number ")
 
-old= 2024 - int(birthyear)
+sum = int(no1) + int(no2) 
 
-print(old)
+print(sum)
